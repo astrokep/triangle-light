@@ -1,0 +1,9 @@
+{
+    "WIFI_SSID":"your_wifi_ssid_here",
+    "WIFI_PASS":"your_wifi_password_here",
+    "OTA_NAME":"your_ota_hostname_here",
+    "OTA_PASS":"your_ota_password_here",
+    "MDNS_NAME":"your_mdns_name_here",
+    "NUM_TRIS":1,
+    "LEDS_PER_TRI":3
+}
